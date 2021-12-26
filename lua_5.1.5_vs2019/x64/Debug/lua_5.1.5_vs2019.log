@@ -1,0 +1,38 @@
+﻿  lapi.c
+  lauxlib.c
+  lbaselib.c
+  lcode.c
+  ldblib.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+C:\Users\jdp_\source\repos\lua_5.1.5_vs2019\lua_5.1.5_vs2019\lua-5.1.5\src\lgc.c(288,56): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  linit.c
+  liolib.c
+  llex.c
+  lmathlib.c
+  lmem.c
+  loadlib.c
+  lobject.c
+  lopcodes.c
+  loslib.c
+  lparser.c
+  Generating Code...
+  Compiling...
+  lstate.c
+  lstring.c
+  lstrlib.c
+  ltable.c
+C:\Users\jdp_\source\repos\lua_5.1.5_vs2019\lua_5.1.5_vs2019\lua-5.1.5\src\ltable.c(323,5): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\jdp_\source\repos\lua_5.1.5_vs2019\lua_5.1.5_vs2019\lua-5.1.5\src\ltable.c(376,5): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  ltablib.c
+  ltm.c
+  lua.c
+  lundump.c
+  lvm.c
+  lzio.c
+  print.c
+  Generating Code...
+  lua_5.1.5_vs2019.vcxproj -> C:\Users\jdp_\source\repos\lua_5.1.5_vs2019\x64\Debug\lua_5.1.5_vs2019.exe

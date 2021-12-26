@@ -1,0 +1,5 @@
+﻿  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 726 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  lua_5.1.5_vs2019.vcxproj -> C:\Users\jdp_\source\repos\lua_5.1.5_vs2019\Release\lua_5.1.5_vs2019.exe

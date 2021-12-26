@@ -1,0 +1,35 @@
+﻿  lapi.c
+  lauxlib.c
+  lbaselib.c
+  lcode.c
+  ldblib.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+  linit.c
+  liolib.c
+  llex.c
+  lmathlib.c
+  lmem.c
+  loadlib.c
+  lobject.c
+  lopcodes.c
+  loslib.c
+  lparser.c
+  Generating Code...
+  Compiling...
+  lstate.c
+  lstring.c
+  lstrlib.c
+  ltable.c
+  ltablib.c
+  ltm.c
+  lua.c
+  lundump.c
+  lvm.c
+  lzio.c
+  print.c
+  Generating Code...
+  lua_5.1.5_vs2019.vcxproj -> C:\Users\jdp_\source\repos\lua_5.1.5_vs2019\Debug\lua_5.1.5_vs2019.exe
